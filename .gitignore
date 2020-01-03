@@ -1,0 +1,8 @@
+.vscode
+bin
+obj
+*.db
+wwwroot
+appsettings.json
+.lock
+db.lock
